@@ -9,7 +9,7 @@ set_site_information(
     description="Encrypt and Decrypt messages using random keys.",
     sources="",
     planning=[],
-    links=["https://github.com/your-username/your-repository"]
+    links=["https://github.com/ryansim-cloud/Unlocked_3"]
 )
 hide_debug_information()
 set_website_framed(False)
